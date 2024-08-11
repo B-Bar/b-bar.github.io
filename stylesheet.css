@@ -5,5 +5,6 @@ table, th, td{vertical-align: top; border: 1px solid #808090; background: white;
 table {border-collapse: collapse; margin-top: 1.2em; /* space above table itself */ margin-bottom: 1.2em; border-width: 3px; margin-bottom: 1em; }
 td { margin: .2em; font-size: 80%; }
 th { background: #f0f4fd; font-weight: bold; font-size: 95%; margin: .2em; padding-bottom: .4em; }
-.links{color:#0040b0; text-decoration:none;}
-.birdie{background-color:#F9A4B5;}
+.links {color:#0040b0; text-decoration:none;}
+.birdie {background-color:#f9a4b5}
+.par {color:#0000ff}
