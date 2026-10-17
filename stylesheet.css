@@ -1,5 +1,6 @@
 html{background-color:#dce1e9; font-family:consolas, monospace; font-size: 12pt; text-align:left; }
 h1{font-size:20pt; text-decoration:bold;}
+h2{font-size:16pt;}
 p{font-size:12pt;}
 table, th, td{vertical-align: top; border: 1px solid #808090; background: white; padding: .5em .6em;}
 table {border-collapse: collapse; margin-top: 1.2em; /* space above table itself */ margin-bottom: 1.2em; border-width: 3px; margin-bottom: 1em; }
